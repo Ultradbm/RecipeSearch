@@ -1,5 +1,5 @@
 # Recipe App
-Simple React app that lets you look for recipes!
+Simple React app that lets you look for recipes!<br/>
 Made following the react recipe app tutorial by Dev Ed from youtube.
 
 ![Recipe App Preview](preview/preview1.jpg)
