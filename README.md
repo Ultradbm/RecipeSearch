@@ -1,3 +1,13 @@
+#Recipe App
+Simple React app that lets you look for recipes!
+Made following the react recipe app tutorial by Dev Ed from youtube.
+
+![Recipe App Preview](preview/preview1.jpg)
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
